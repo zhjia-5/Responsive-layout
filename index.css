@@ -85,6 +85,7 @@ header ul.nav li:hover::after{
   width: 100%;
   height: 36vw;
   overflow: hidden;
+  margin-top: 80px;
 }
 .carousel ul{
   width: 400vw; 
@@ -156,10 +157,6 @@ footer::after{
 footer:hover::after{
   background: rgba(0, 0, 0, 0);
 }
-
-
-
-
 
 
 /* ******媒体查询 ******/
